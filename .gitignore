@@ -18,6 +18,8 @@
 # Target wp-content
 !wp-content
 wp-content/*
+wp-content/upgrade/*
+wp-content/uploads/*
 
 # Plugins
 **wp-content/mu-plugins
